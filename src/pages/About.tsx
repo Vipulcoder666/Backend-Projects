@@ -28,19 +28,19 @@ const About = () => {
 
   const team = [
     {
-      name: "Rajesh Sharma",
+      name: "Vipul Shrivastav",
       role: "Founder & CEO",
       experience: "15+ years in tourism",
       speciality: "Heritage & Culture Tours"
     },
     {
-      name: "Priya Patel",
+      name: "Anup Kumar",
       role: "Operations Director",
       experience: "12+ years experience",
       speciality: "Adventure & Trekking"
     },
     {
-      name: "Amit Kumar",
+      name: "Sumit Pal",
       role: "Guest Relations Manager",
       experience: "10+ years experience",
       speciality: "Customer Service"

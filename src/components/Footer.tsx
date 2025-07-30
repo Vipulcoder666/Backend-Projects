@@ -50,15 +50,15 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4" />
-                <span>+91 98765 43210</span>
+                <span>+91 7897516265</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
-                <span>info@incredibleindiatours.com</span>
+                <span>vipulmpgi@gmail.com</span>
               </div>
               <div className="flex items-start space-x-2">
                 <MapPin className="h-4 w-4 mt-1" />
-                <span>123 Travel Street, New Delhi, India 110001</span>
+                <span>61/A Travel Street, New Delhi, India 110001</span>
               </div>
             </div>
           </div>

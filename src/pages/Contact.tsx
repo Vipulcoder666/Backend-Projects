@@ -179,8 +179,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Phone</h3>
-                    <p className="text-muted-foreground">+91 98765 43210</p>
-                    <p className="text-muted-foreground">+91 98765 43211 (WhatsApp)</p>
+                    <p className="text-muted-foreground">+91 7897516265</p>
+                    <p className="text-muted-foreground">+91 9897567644 (WhatsApp)</p>
                   </div>
                 </div>
 
@@ -190,7 +190,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Email</h3>
-                    <p className="text-muted-foreground">info@incredibleindiatours.com</p>
+                    <p className="text-muted-foreground">vipulmpgi@gmail.com</p>
                     <p className="text-muted-foreground">bookings@incredibleindiatours.com</p>
                   </div>
                 </div>
@@ -202,7 +202,7 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold mb-1">Office Address</h3>
                     <p className="text-muted-foreground">
-                      123 Travel Street<br />
+                      61/A Travel Street<br />
                       Connaught Place<br />
                       New Delhi - 110001<br />
                       India
@@ -261,7 +261,7 @@ const Contact = () => {
                   <div className="text-center text-muted-foreground">
                     <MapPin className="h-12 w-12 mx-auto mb-2" />
                     <p>Interactive Map</p>
-                    <p className="text-sm">123 Travel Street, New Delhi</p>
+                    <p className="text-sm">61/A Travel Street, New Delhi</p>
                   </div>
                 </div>
               </CardContent>
