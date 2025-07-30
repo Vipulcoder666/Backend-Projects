@@ -1,73 +1,49 @@
-# Welcome to your Lovable project
+# Incredible India Tours 🌄🇮🇳
 
-## Project info
+A modern, responsive **Travel & Tourism Website** designed to showcase beautiful destinations across India. Built using **React**, **TypeScript**, **Tailwind CSS**, and **Vite**, this web application offers an elegant UI/UX experience and highlights curated tour packages for travelers.
 
-**URL**: https://lovable.dev/projects/b2b62450-2d4a-4e02-a221-79959106951b
+---
 
-## How can I edit this code?
+## ✨ Project Overview
 
-There are several ways of editing your application.
+**Incredible India Tours** is a professionally designed travel web application focused on showcasing India's best destinations. The platform provides detailed tour packages, highlights business values like expert guides and safety, and offers a responsive, mobile-first user experience.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b2b62450-2d4a-4e02-a221-79959106951b) and start prompting.
+## 🔧 Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Frontend:** React, TypeScript
+- **Styling:** Tailwind CSS
+- **Build Tool:** Vite
+- **Category:** Travel & Tourism Web Application
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🌟 Key Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 🏠 Landing Page
+- Stunning hero section with mountain backdrop and call-to-action
+- Navigation bar with links to Home, Tours, About Us, Contact, and Book Now
+- Fully responsive design with clean UI/UX
 
-Follow these steps:
+### 📦 Tour Packages System
+- Dynamic display of tour packages (₹25,000 - ₹65,000)
+- Popular destinations: Kerala Backwaters, Rajasthan Heritage, Leh-Ladakh Adventure
+- Each tour includes duration, group size, and location highlights
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### ✨ Business Highlights
+- Focus on expert guides and personalized travel experiences
+- Small group travel philosophy (2–12 people)
+- Safety and travel insurance emphasis
+- 24/7 customer support
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🎨 Design Highlights
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- Warm orange and golden color scheme reflecting Indian landscapes
+- Modern and professional typography
+- High-quality travel imagery and iconography
+- Optimized for desktop, tablet, and mobile screens
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/b2b62450-2d4a-4e02-a221-79959106951b) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
